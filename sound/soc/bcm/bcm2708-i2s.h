@@ -30,6 +30,4 @@
 #define BCM2708_I2S_GPIO_PIN18_ALT	0
 #define BCM2708_I2S_GPIO_PIN28_ALT	2
 
-extern void bcm2708_i2s_set_gpio(int gpio);
-
 #endif
